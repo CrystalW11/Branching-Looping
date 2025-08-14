@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Guided-project-branching-looping-CSharp-main", "Guided-project-branching-looping-CSharp-main", "{19B5B676-961B-2E43-8825-71912D663FA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GuidedProject", "GuidedProject", "{E7911415-B0C8-6F54-253D-9022485CAD2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final", "Guided-project-branching-looping-CSharp-main\GuidedProject\Final\Final.csproj", "{903533A2-0CAA-FC65-96EC-C420AED7319F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "Guided-project-branching-looping-CSharp-main\GuidedProject\Starter\Starter.csproj", "{66F6711A-0E6B-346C-830F-47F751850534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903533A2-0CAA-FC65-96EC-C420AED7319F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903533A2-0CAA-FC65-96EC-C420AED7319F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903533A2-0CAA-FC65-96EC-C420AED7319F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903533A2-0CAA-FC65-96EC-C420AED7319F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F6711A-0E6B-346C-830F-47F751850534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F6711A-0E6B-346C-830F-47F751850534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F6711A-0E6B-346C-830F-47F751850534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F6711A-0E6B-346C-830F-47F751850534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E7911415-B0C8-6F54-253D-9022485CAD2A} = {19B5B676-961B-2E43-8825-71912D663FA2}
+		{903533A2-0CAA-FC65-96EC-C420AED7319F} = {E7911415-B0C8-6F54-253D-9022485CAD2A}
+		{66F6711A-0E6B-346C-830F-47F751850534} = {E7911415-B0C8-6F54-253D-9022485CAD2A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F469A13-7341-422A-89A3-7984A5DBA6C7}
+	EndGlobalSection
+EndGlobal
